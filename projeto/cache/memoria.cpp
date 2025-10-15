@@ -7,3 +7,9 @@
 
 using BitSet = Mylib::BitSet<32>;
 
+class memoria {
+    private:
+        std::vector<BitSet> memoria::memoria;
+
+    public:
+}
